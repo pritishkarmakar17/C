@@ -1,2 +1,2 @@
 # C Programming
-## Basics of C program
+Basics of C program
